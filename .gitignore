@@ -1,0 +1,11 @@
+config/personal_aws_keys.json
+config/chas_authorized_keys
+
+packer_cache
+packer-vbox-output
+
+ec2_amazon-ebs.pem
+crash.log
+
+.DS_Store
+.vagrant
